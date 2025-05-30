@@ -40,7 +40,7 @@ Each Python file in this repository follows a simple format:
 ---
 
 💻 Socials
- 
+  
 - ***LinkedIn** :- https://www.linkedin.com/in/gauri-mehrotra-008580324/
 
 ---
