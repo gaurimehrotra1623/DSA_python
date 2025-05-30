@@ -21,7 +21,9 @@ Each Python file in this repository follows a simple format:
 ✅ Topics Covered
 
 ->Prefix Sum 
+
 ->Two Pointers
+
 (will be updated as I add more files)
 
 ---
