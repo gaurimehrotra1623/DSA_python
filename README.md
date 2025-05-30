@@ -10,21 +10,19 @@ This repository is dedicated to practicing **Data Structures and Algorithms (DSA
 📂 Repository Structure
 
 Each Python file in this repository follows a simple format:
--> #question name 
--> #question description 
--> #input formats
--> #output formats
--> solution of the problem
+- #question name 
+- #question description 
+- #input formats
+- #output formats
+- solution of the problem
 
 ---
 
 ✅ Topics Covered
 
-->Prefix Sum 
-
-->Two Pointers
-
-(will be updated as I add more files)
+- Prefix Sum 
+- Two Pointers
+- (will be updated as I add more files)
 
 ---
 
@@ -37,13 +35,13 @@ Each Python file in this repository follows a simple format:
 
 👩‍💻 Author
 
-***Gauri Mehrotra**
+- ***Gauri Mehrotra**
 
 ---
 
 💻 Socials
  
-***LinkedIn** :- https://www.linkedin.com/in/gauri-mehrotra-008580324/
+- ***LinkedIn** :- https://www.linkedin.com/in/gauri-mehrotra-008580324/
 
 ---
 
