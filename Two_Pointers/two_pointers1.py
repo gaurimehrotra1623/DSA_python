@@ -24,7 +24,7 @@
 def minSubArray(arr, k):
     n= len(arr)
     left=0
-    minn=999999999
+    minn=float('inf')
     curr_sum=0
     for i in range(n):
         curr_sum+=arr[i]
