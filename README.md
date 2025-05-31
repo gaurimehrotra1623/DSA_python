@@ -22,6 +22,7 @@ Each Python file in this repository follows a simple format:
 
 - Prefix Sum 
 - Two Pointers
+- Binary Search
 - (will be updated as I add more files)
 
 ---
