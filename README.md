@@ -36,13 +36,13 @@ Each Python file in this repository follows a simple format:
 
 👩‍💻 Author
 
-- ***Gauri Mehrotra**
+- Gauri Mehrotra
 
 ---
 
 💻 Socials
   
-- ***LinkedIn** :- https://www.linkedin.com/in/gauri-mehrotra-008580324/
+- LinkedIn :- https://www.linkedin.com/in/gauri-mehrotra-008580324/
 
 ---
 
