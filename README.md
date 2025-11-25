@@ -24,7 +24,8 @@ Each Python file in this repository follows a simple format:
 - Two Pointers
 - Binary Search
 - Recursion 
-- Sorting 
+- Sorting
+- Algorithms 
 
 - (will be updated as I add more files)
 

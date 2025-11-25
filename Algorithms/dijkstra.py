@@ -1,3 +1,8 @@
+#PROBLEM STATEMENT 
+#----------------------------------#
+# Given an undirected, weighted graph and a source node. Your task is to compute the shortest path from the source node to all other nodes in the graph using Dijkstra's algorithm.
+#----------------------------------#
+
 import heapq
 def dijkstra(n, src, edges):
   adj = [[] for i in range(n)]
