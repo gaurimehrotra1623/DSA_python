@@ -14,8 +14,7 @@ Each Python file in this repository follows a simple format:
 - #question description 
 - #input formats
 - #output formats
-- solution of the problem
-
+- #solution of the problem
 ---
 
 ✅ Topics Covered
